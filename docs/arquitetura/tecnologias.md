@@ -23,6 +23,13 @@ Documentação das tecnologias e ferramentas selecionadas para o projeto.
             <td>Framework web moderno e de alta performance para construção de APIs com Python. Oferece validação automática de dados, documentação interativa automática (Swagger/OpenAPI) e suporte nativo para programação assíncrona.</td>
         </tr>
         <tr>
+            <td>SQLAlchemy</td>
+            <td>
+                <img src="../../assets/tecnologias/sqlalchemy.png" width="100">
+            </td>
+            <td>ORM (Object-Relational Mapping) Python que facilita a interação com bancos de dados relacionais. Oferece mapeamento automático entre objetos Python e tabelas de banco, query builder, migrations e suporte a múltiplos SGBDs.</td>
+        </tr>
+        <tr>
         </tr>
     </tbody>
 </table>
