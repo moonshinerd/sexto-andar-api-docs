@@ -8,6 +8,9 @@ nav:
   - Home: index.md
   - Backlog: 
     - Histórias de Usuário: backlog/userStories.md
+  - Arquitetura:
+    - Arquitetura Selecionada: arquitetura/arquitetura-selecionada.md
+    - Tecnologias Utilizadas: arquitetura/tecnologias.md
 
 theme:
   logo: assets/logo.png
@@ -27,7 +30,7 @@ theme:
         name: Trocar para modo escuro
 
     - scheme: slate
-      primary: blue
+      primary: green
       accent: white
       toggle:
         icon: material/weather-sunny

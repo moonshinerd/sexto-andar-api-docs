@@ -1,17 +1,43 @@
-# Welcome to MkDocs
+---
+hide:
+  - toc
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Bem-vindo ao Sistema Sexto Andar
 
-## Commands
+## Sobre o Projeto
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+O **Sistema Sexto Andar** é um projeto acadêmico que simula uma plataforma de intermediação imobiliária. Desenvolvido em Java como trabalho prático universitário, o sistema permite que usuários busquem imóveis, proprietários gerenciem seus imóveis e administradores controlem toda a plataforma.
 
-## Project layout
+## O que você encontrará aqui
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Esta documentação contém tudo o que você precisa saber sobre o sistema:
+
+- **Histórias de Usuário** - Todas as funcionalidades do sistema organizadas por perfil
+- **Guia de Uso** - Como navegar e utilizar cada funcionalidade  
+- **Arquitetura** - Estrutura técnica e organização do código
+- **Exemplos Práticos** - Demonstrações de como usar o sistema
+
+## Começando
+
+O sistema é uma aplicação console simples e intuitiva. Para começar a explorar:
+
+1. Navegue pelas seções da documentação no menu
+2. Veja as histórias de usuário para entender todas as funcionalidades
+3. Consulte o guia de uso para aprender a navegar no sistema
+
+## Tipos de Usuário
+
+### Usuário
+Pessoas interessadas em alugar ou comprar imóveis. Podem visualizar propriedades, favoritar, agendar visitas e fazer propostas.
+
+### Proprietário  
+Donos de imóveis que desejam anunciá-los na plataforma. Podem cadastrar casas e apartamentos, gerenciar propostas e visitas.
+
+### Administrador
+Responsáveis pela moderação da plataforma. Têm controle total sobre usuários, proprietários e imóveis cadastrados.
+
+
+---
+
+*Projeto desenvolvido como trabalho acadêmico - UnB*
