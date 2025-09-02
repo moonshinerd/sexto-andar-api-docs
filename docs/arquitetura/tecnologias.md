@@ -1,6 +1,10 @@
-# Tecnologias Utilizadas
+## Introdução
 
-Documentação das tecnologias e ferramentas selecionadas para o projeto.
+Este documento apresenta as principais tecnologias selecionadas para o desenvolvimento do sistema **Sexto Andar**. A escolha dessas tecnologias foi baseada em critérios como performance, escalabilidade, facilidade de manutenção e suporte da comunidade.
+
+O projeto utiliza uma arquitetura moderna separando claramente as responsabilidades entre **backend** (API REST), **frontend** (interface de usuário), **banco de dados** (persistência) e **infraestrutura** (deployment e gerenciamento).
+
+Cada tecnologia foi cuidadosamente avaliada para garantir a melhor experiência tanto para desenvolvedores quanto para usuários finais, priorizando ferramentas maduras e amplamente adotadas no mercado.
 
 ## Backend
 
