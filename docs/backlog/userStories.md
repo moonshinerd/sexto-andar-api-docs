@@ -3,6 +3,15 @@ hide:
   - toc
 ---
 
+## Introdução
+
+Este documento apresenta as histórias de usuário do sistema **Sexto Andar**, uma plataforma para gerenciamento de imóveis que conecta usuários interessados em alugar ou comprar imóveis com proprietários que desejam disponibilizá-los.
+
+O sistema possui três tipos de usuários principais: **Usuários Comuns** (interessados em imóveis), **Proprietários** (donos de imóveis) e **Administradores** (gestores da plataforma). Cada perfil possui funcionalidades específicas que atendem às suas necessidades no processo de locação e venda de imóveis.
+
+As histórias foram organizadas por perfil de usuário para facilitar o entendimento dos requisitos funcionais e servir como base para o desenvolvimento do sistema.
+
+
 ### **Usuário Comum**
 
 1. Como usuário, quero me cadastrar como "Usuário" para poder acessar imóveis, favoritar, agendar visitas e fazer propostas.

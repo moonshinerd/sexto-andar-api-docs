@@ -4,16 +4,112 @@ Documentação das tecnologias e ferramentas selecionadas para o projeto.
 
 ## Backend
 
-<!-- Liste as tecnologias do backend -->
+<center>
+
+<table>
+    <thread>
+        <tr>
+            <th>Tecnologia</th>
+            <th>Imagem</th>
+            <th>Descrição</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td>Fastapi</td>
+            <td>
+                <img src="../../assets/tecnologias/fastapi.png" width="100">
+            </td>
+            <td>Framework web moderno e de alta performance para construção de APIs com Python. Oferece validação automática de dados, documentação interativa automática (Swagger/OpenAPI) e suporte nativo para programação assíncrona.</td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+</center>
 
 ## Frontend
 
-<!-- Liste as tecnologias do frontend -->
+<center>
+
+<table>
+    <thread>
+        <tr>
+            <th>Tecnologia</th>
+            <th>Imagem</th>
+            <th>Descrição</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td>React</td>
+            <td>
+                <img src="../../assets/tecnologias/react.png" width="100">
+            </td>
+            <td>Biblioteca JavaScript para construção de interfaces de usuário interativas. Baseada em componentes reutilizáveis, oferece um virtual DOM para alta performance, gerenciamento de estado eficiente e um ecossistema rico de ferramentas e bibliotecas.</td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+</center>
 
 ## Banco de Dados
 
-<!-- Descreva o banco de dados utilizado -->
+<center>
+
+<table>
+    <thread>
+        <tr>
+            <th>Tecnologia</th>
+            <th>Imagem</th>
+            <th>Descrição</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td>PostgreSQL</td>
+            <td>
+                <img src="../../assets/tecnologias/postgres.png" width="100">
+            </td>
+            <td>Sistema de gerenciamento de banco de dados relacional de código aberto. Oferece conformidade com padrões SQL, suporte a transações ACID, recursos avançados como índices, views materializadas e extensibilidade através de funções customizadas.</td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+</center>
 
 ## Infraestrutura
+<center>
 
-<!-- Descreva a infraestrutura e deployment -->
+<table>
+    <thread>
+        <tr>
+            <th>Tecnologia</th>
+            <th>Imagem</th>
+            <th>Descrição</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td>Docker</td>
+            <td>
+                <img src="../../assets/tecnologias/docker.png" width="100">
+            </td>
+            <td>Plataforma de containerização que permite empacotar aplicações e suas dependências em containers leves e portáveis. Facilita o deployment, escalabilidade e garante consistência entre ambientes de desenvolvimento, teste e produção.</td>
+        </tr>
+        <tr>
+            <td>pgAdmin</td>
+            <td>
+                <img src="../../assets/tecnologias/pgadmin.png" width="100">
+            </td>
+            <td>Ferramenta de administração e gerenciamento web para PostgreSQL. Oferece interface gráfica intuitiva para executar consultas SQL, gerenciar usuários, monitorar performance, criar backups e administrar bancos de dados PostgreSQL de forma visual.</td>
+        </tr>
+    </tbody>
+</table>
+
+</center>
