@@ -2,14 +2,12 @@ site_name: ""
 repo_url: https://github.com/moonshinerd/sexto-andar-api
       
 extra_css:
-  - stylesheets/style.css
+  - assets/stylesheets/style.css
 
 nav:
   - Home: index.md
-  - Atas:
-    - Ata 1: Atas/ata01.md
-    - Ata 2: Atas/ata02.md
-    - Ata 3: Atas/ata03.md
+  - Backlog: 
+    - Histórias de Usuário: backlog/userStories.md
 
 theme:
   logo: assets/logo.png
