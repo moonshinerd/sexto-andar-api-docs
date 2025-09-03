@@ -63,13 +63,3 @@ Herda de Account
 ### PropertyType
 - Apartment (Apartamento)
 - House (Casa)
-
-## Relacionamentos
-
-1. Account → User, PropertyOwner (Herança)
-2. PropertyOwner 1 → 0..* Property
-3. Property 1 ←→ 1 Address
-4. Property 1 → 0..* Visit
-5. Property 1 → 0..* Proposal
-6. User 1 → 0..* Visit
-7. User 1 → 0..* Proposal
