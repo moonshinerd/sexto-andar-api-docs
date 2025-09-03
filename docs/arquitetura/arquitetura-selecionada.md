@@ -63,10 +63,11 @@ Define as **entidades do domínio**:
 
 ### **View (Visão)**
 
-- **Frontend React**: Interface de usuário
+- **Pydantic Serializers**: Validação e serialização de dados da API
+- **Frontend React**: Interface de usuário e componentes visuais
 - **Respostas JSON**: Dados formatados pela API
 - **Documentação Swagger**: Interface de documentação
-- Responsável pela apresentação dos dados
+- Responsável pela apresentação dos dados (API e UI)
 
 ### **Controller (Controlador)**
 

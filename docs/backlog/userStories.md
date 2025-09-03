@@ -13,7 +13,6 @@ O sistema possui três tipos de usuários principais: **Usuários Comuns** (inte
 
 As histórias foram priorizadas usando o método **MoSCoW** considerando o valor para o negócio e dependências entre funcionalidades.
 
----
 
 ## Histórias Priorizadas
 
@@ -75,8 +74,6 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | US37 | Como usuário do sistema, quero ver **diferenciação entre aluguel e venda** nos valores dos imóveis. | Should have |
 | US38 | Como usuário do sistema, quero que as **propostas e visitas tenham IDs únicos** para rastreamento. | Must have |
 | US39 | Como proprietário, quero que o sistema **calcule automaticamente o valor total** dos imóveis com todas as taxas. | Could have |
-
----
 
 ## Legenda - Método MoSCoW
 
